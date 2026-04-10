@@ -5,7 +5,7 @@ Website klasifikasi hewan (Kucing / Anjing / Hewan Liar) menggunakan model CNN P
 > **Tidak ada server. Tidak ada API. 100% offline setelah model di-load.**
 
 ## 🌐 Demo
-[Buka Website →](https://USERNAME.github.io/Animal-Classifier)
+[Buka Website →](https://k1rigayakun.github.io/Responsi-Ai/)
 
 ---
 
@@ -25,7 +25,7 @@ Animal-Classifier/
 
 ### Step 1 — Export model ke ONNX (di Google Colab)
 
-Tambahkan cell berikut di **akhir notebook** (`yang_kupake_final.ipynb`), jalankan setelah training selesai:
+Tambahkan cell berikut di **akhir notebook** (`Animal Classifier Optimized.ipynb`), jalankan setelah training selesai:
 
 ```python
 import torch, os
