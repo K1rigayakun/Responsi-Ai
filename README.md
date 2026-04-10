@@ -15,7 +15,6 @@ Website klasifikasi hewan (Kucing / Anjing / Hewan Liar) menggunakan model CNN P
 Animal-Classifier/
 ├── index.html          ← Website utama
 ├── model.onnx          ← Model CNN yang sudah di-export (kamu upload manual)
-├── export_onnx.py      ← Script cell untuk export model dari notebook
 └── README.md
 ```
 
